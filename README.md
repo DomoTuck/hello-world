@@ -1,2 +1,5 @@
 # hello-world
-Very first repository
+
+Hello Everybody!
+
+My name is Dom Tucker and I'm a military veteran.
